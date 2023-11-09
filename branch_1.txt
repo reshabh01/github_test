@@ -5,3 +5,13 @@ used codes for previous commit and current commit
 git add .
 git commit -m "<message>"
 git push
+
+
+
+how i go revert in previous commit
+
+git reset <previous_commit_id>
+either delete previous things or git stash
+git add .
+git commit -m "<message>"
+git push -f origin main    // used for forced update becuz it on simple push it was showing Updates were rejected because the tip of your current branch is behind
