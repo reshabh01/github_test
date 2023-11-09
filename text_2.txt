@@ -1,1 +1,6 @@
 this is second branch
+
+
+syntax for pushing new branch
+
+git push --set-upstream origin branch_2 
