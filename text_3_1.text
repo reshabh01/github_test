@@ -1,1 +1,16 @@
 this is for 3rd branch
+
+again wanting to commit
+
+
+
+
+
+
+
+if we are using git bash instead of terminal
+
+just use 
+git push <remote_name> <branch_name> 
+
+and it will create branch and also commit at the same time
