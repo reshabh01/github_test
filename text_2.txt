@@ -1,0 +1,11 @@
+this is second branch
+
+
+syntax for pushing new branch
+
+git push --set-upstream origin branch_2 
+
+now for pushing in particular branch we used 
+
+git push origin branch_2
+this is basically git push <remote_name> <branch_name>
